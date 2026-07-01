@@ -214,7 +214,6 @@ Possible improvements for future versions:
 * use cross-validation
 * add external data such as holidays, local events or weather
 * build a simple web interface for price prediction
-* deploy the trained model as an API
 
 ---
 
